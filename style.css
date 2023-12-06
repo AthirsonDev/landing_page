@@ -111,3 +111,9 @@ video{
 .signcard button{
   border: 2px solid white;
 }
+footer{
+  background: var(--dark-background-color);
+  text-align: center;
+  padding: 60px 0;
+  color: white;
+}
